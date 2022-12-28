@@ -1,0 +1,49 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.img {
+    margin: 60px;
+}
+.navbar {
+    padding: 2rem;
+    background-color: #caaeea;
+    height: 7rem;
+}
+.navbar-collapse {
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+/* header*/
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-size: 2.5rem;
+
+}
+
+
+.Inicio {
+    min-height: 450px;
+    text-align: center;
+}
+
+
+/*portafolio*/
+.portafolio {
+    padding: 3rem;
+}
+
+
+
+/*footer*/
+footer {
+    background-color: #caaeea;
+    padding: 0;
+    margin: 0;
+}
